@@ -1,0 +1,22 @@
+{C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/mux2_2.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/mux2_2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2_2
+
+Top level modules:
+	mux2_2
+
+} {} {}} {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/butterfly.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/butterfly.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module butterfly
+
+Top level modules:
+	butterfly
+
+} {} {}} {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/systolic_fft.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/systolic_fft.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module systolic_fft
+
+Top level modules:
+	systolic_fft
+
+} {} {}}

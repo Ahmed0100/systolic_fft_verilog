@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/FIR FILTER
+vbutterfly
+Z0 !s110 1446222943
+!i10b 1
+!s100 <<b?ofHD8Oa9E3B=210?_2
+IEEoRldT`A2c5QBBD]ffC_1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT
+w1446128254
+8C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/butterfly.v
+FC:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/butterfly.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1446222943.000000
+!s107 C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/butterfly.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/butterfly.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vfifo_4
+Z6 !s110 1446472139
+!i10b 1
+!s100 9QH@<@hMa`gV^_oIoPNUg2
+IRm@SOjn^`]lERJO=YBB7M1
+R1
+R2
+w1446472133
+8C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/FIFO_4.v
+FC:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/FIFO_4.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1446472137.000000
+!s107 C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/FIFO_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/FIFO_4.v|
+!s101 -O0
+!i113 1
+R5
+vmux2_2
+R0
+!i10b 1
+!s100 dSi7X3N4=T3o^`EQ4ld8g3
+I?K@Km1^[o5a=3ER>ZA_;32
+R1
+R2
+w1446128885
+8C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/mux2_2.v
+FC:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/mux2_2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/mux2_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/mux2_2.v|
+!s101 -O0
+!i113 1
+R5
+vregister
+R6
+!i10b 1
+!s100 P`UCCJP:79G^Ze3o2kL==3
+I1UUDi@P7EDS32K`KHg:fC0
+R1
+R2
+w1446391042
+8C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/register.v
+FC:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/register.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1446472139.000000
+!s107 C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/register.v|
+!s101 -O0
+!i113 1
+R5
+vsystolic_fft
+R0
+!i10b 1
+!s100 f^_Ro]Ma=kbZ[0a2Q54O>2
+I[`<]7J`NN90RSY9851[SZ0
+R1
+R2
+w1446222939
+8C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/systolic_fft.v
+FC:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/systolic_fft.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1446222942.000000
+!s107 C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/systolic_fft.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Ahmed Mustafa data/VERILOG PROJECTS/Systolic FFT/systolic_fft.v|
+!s101 -O0
+!i113 1
+R5
